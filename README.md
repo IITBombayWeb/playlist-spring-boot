@@ -1,7 +1,7 @@
 Requirements:
 1. Java jdk and jre to run java
 2. Postgres
-3. Eclipse(optional, but recommended)
+3. Eclipse (optional, but recommended)
 
 <br/>
 
