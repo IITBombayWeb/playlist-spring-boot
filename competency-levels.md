@@ -4,8 +4,7 @@
 
 1. git clone the following two repos locally and install all required
    components.
-	1. [Spring Boot backend]
-	   (https://github.com/IITBombayWeb/playlist-spring-boot)
+	1. [Spring Boot backend](https://github.com/IITBombayWeb/playlist-spring-boot)
 	2. [React Frontend](https://github.com/IITBombayWeb/playlist-react)
 
 2. Start the servers for the packages
