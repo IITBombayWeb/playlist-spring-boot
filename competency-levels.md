@@ -2,11 +2,11 @@
 
 ## Level-0: Basic Devops
 
-1. Install all required components for the following two packages
-	1. [Spring Boot backend](https://github.com/IITBombayWeb/playlist-spring-boot)
+1. git clone the following two repos locally and install all required
+   components.
+	1. [Spring Boot backend]
+	   (https://github.com/IITBombayWeb/playlist-spring-boot)
 	2. [React Frontend](https://github.com/IITBombayWeb/playlist-react)
-
-2. Clone the two repos locally 
 
 2. Start the servers for the packages
 
@@ -16,7 +16,7 @@
 
 5. Create two playlists
 
-6. Add some songs to the playlist
+6. Add some songs to the playlists
 
 
 ## Level-1: Basic coding
