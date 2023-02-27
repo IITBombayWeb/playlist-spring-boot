@@ -2,7 +2,7 @@ Requirements:
 1. Java jdk and jre to run java - openjdk11 (sudo apt install default-jdk)
 2. Postgres - refer [link](https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart)
 3. Install maven (sudo apt install maven)
-4. Install Eclipse (optional, but recommended)
+4. Install Eclipse (optional)
 
 <br/>
 
